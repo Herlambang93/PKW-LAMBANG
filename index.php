@@ -1,2 +1,2 @@
 
-<?php include_once('praktikum_bootstrap.html'); ?>
+<?php include_once('index.html'); ?>
