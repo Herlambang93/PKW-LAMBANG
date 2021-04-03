@@ -1,0 +1,11 @@
+.hero-banner{
+    background-image: url('https://www.afro.who.int/sites/default/files/2019-12/consumers-of-cigarettes-have-to-part-with-more-money-after-the-local-manufacturer-doubled-the-prices-of-the-products.jpg');
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.footer{
+    height: 50px;
+}
